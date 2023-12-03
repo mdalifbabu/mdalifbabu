@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdalifbabu
+- 👋 Hi, I’m Alif
 - 👀 I’m interested in any Technologies.
 - 🌱 I’m currently learning Spring Security and React Redux.
 - 💞️ I’m looking to collaborate on Algorithmic Challenges.
