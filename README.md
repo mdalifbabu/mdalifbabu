@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdalifbabu
-- 👀 I’m interested in technologies.
-- 🌱 I’m currently learning spring boot REST framework.
-- 💞️ I’m looking to collaborate on javascript.
+- 👀 I’m interested in any Technologies.
+- 🌱 I’m currently learning Spring Security and React Redux.
+- 💞️ I’m looking to collaborate on Algorithmic Challenges.
 - 📫 How to reach me muhammad.alifbabu@gmail.com
 
 <!---
