@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Spring Security and React Redux.
 - 💞️ I’m looking to collaborate on Algorithmic Challenges.
 - 📫 How to reach me muhammad.alifbabu@gmail.com
+- 📋 See more on [detail page...](https://mdalifbabu.github.io/portfolio/)
 
 <!---
 mdalifbabu/mdalifbabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
